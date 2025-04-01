@@ -1,0 +1,134 @@
+{
+    "videojuegos": [
+      {
+        "titulo": "Deep Rock Galactic",
+        "año_lanzamiento": 2020,
+        "plataforma": ["PC", "Xbox"],
+        "genero": ["Disparos", "Cooperativo", "Ciencia Ficción"],
+        "desarrollador": {
+          "nombre": "Ghost Ship Games",
+          "pais": "Dinamarca",
+          "fundacion": 2016
+        },
+        "puntuacion": 85,
+        "caracteristicas": {
+          "multijugador": true,
+          "modo_historia": false,
+          "contenido_generado_proceduralmente": true
+        },
+        "dlcs": ["Roughneck Pack", "Dark Future Pack", "MegaCorp Pack"],
+        "personajes_jugables": [
+          {
+            "nombre": "Driller",
+            "habilidades": ["Perforación rápida", "Explosivos de alto impacto"]
+          },
+          {
+            "nombre": "Gunner",
+            "habilidades": ["Torretas automáticas", "Cañón pesado"]
+          }
+        ]
+      },
+      {
+        "titulo": "Insurgency: Sandstorm",
+        "año_lanzamiento": 2018,
+        "plataforma": ["PC", "PlayStation", "Xbox"],
+        "genero": ["Disparos", "Táctico", "Realista"],
+        "desarrollador": {
+          "nombre": "New World Interactive",
+          "pais": "Estados Unidos",
+          "fundacion": 2010
+        },
+        "puntuacion": 82,
+        "caracteristicas": {
+          "multijugador": true,
+          "modo_historia": false,
+          "combate_realista": true
+        },
+        "dlcs": ["Nightfall", "Operation Cold Blood"],
+        "armas_disponibles": ["M4A1", "AK-74", "MP5A5"]
+      },
+      {
+        "titulo": "Shadow Warrior 3",
+        "año_lanzamiento": 2022,
+        "plataforma": ["PlayStation", "PC", "Xbox"],
+        "genero": ["Disparos", "Acción", "Hack and Slash"],
+        "desarrollador": {
+          "nombre": "Flying Wild Hog",
+          "pais": "Polonia",
+          "fundacion": 2009
+        },
+        "puntuacion": 75,
+        "caracteristicas": {
+          "multijugador": false,
+          "modo_historia": true,
+          "combate_rapido": true
+        },
+        "dlcs": ["Demonic Pack"],
+        "protagonista": {
+          "nombre": "Lo Wang",
+          "habilidades": ["Espada de dragón", "Parkour extremo"]
+        }
+      },
+      {
+        "titulo": "Minecraft",
+        "año_lanzamiento": 2011,
+        "plataforma": ["PC", "PlayStation", "Xbox", "Nintendo Switch", "Mobile"],
+        "genero": ["Sandbox", "Supervivencia", "Construcción"],
+        "desarrollador": {
+          "nombre": "Mojang Studios",
+          "pais": "Suecia",
+          "fundacion": 2009
+        },
+        "puntuacion": 95,
+        "caracteristicas": {
+          "multijugador": true,
+          "modo_historia": false,
+          "mundo_procedural": true
+        },
+        "dlcs": ["Star Wars DLC", "Sonic the Hedgehog DLC", "Super Mario Mash-up"],
+        "mobs_hostiles": [
+          {
+            "nombre": "Creeper",
+            "ataques": ["Explosión"],
+            "dificultad": "Media"
+          },
+          {
+            "nombre": "Enderman",
+            "ataques": ["Teletransporte", "Golpes rápidos"],
+            "dificultad": "Alta"
+          }
+        ]
+      },
+      {
+        "titulo": "Terraria",
+        "año_lanzamiento": 2011,
+        "plataforma": ["PC", "PlayStation", "Xbox", "Nintendo Switch"],
+        "genero": ["Acción", "Aventura", "Sandbox"],
+        "desarrollador": {
+          "nombre": "Re-Logic",
+          "pais": "Estados Unidos",
+          "fundacion": 2011
+        },
+        "puntuacion": 89,
+        "caracteristicas": {
+          "multijugador": true,
+          "modo_historia": false,
+          "mundo_procedural": true
+        },
+        "dlcs": [],
+        "jefes": [
+          {
+            "nombre": "Ojo de Cthulhu",
+            "dificultad": "Media",
+            "ataques": ["Carga rápida", "Invoca siervos"]
+          },
+          {
+            "nombre": "Rey Slime",
+            "dificultad": "Fácil",
+            "ataques": ["Salto gigante", "Invoca Slimes"]
+          }
+        ]
+      }
+    ]
+  }
+  
